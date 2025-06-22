@@ -1,0 +1,4 @@
+aiogram>=3.0.0
+torch>=1.9.0
+numpy>=1.21.0
+pretty_midi>=0.2.9 
