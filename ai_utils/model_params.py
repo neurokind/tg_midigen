@@ -8,7 +8,7 @@ n_heads = 8
 num_layers = 6
 
 # Feed-forward layer size
-d_ff = 2048 
+d_ff = 4096 
 
 # Dropout
 dropout = 0.1 
